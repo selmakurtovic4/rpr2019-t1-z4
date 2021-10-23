@@ -14,12 +14,12 @@ public class Main {
         supermarket.dodajArtikl(new Artikl("Biciklo", 1000, "4"));
         supermarket.dodajArtikl(new Artikl("Biciklo", 1000, "5"));
         supermarket.dodajArtikl(new Artikl("Biciklo", 1000, "6"));
-        supermarket.dodajArtikl(new Artikl("Biciklo", 1000, "7"));
+        supermarket.dodajArtikl(new Artikl("Auto", 1000, "7"));
         supermarket.dodajArtikl(new Artikl("Biciklo", 1000, "8"));
         supermarket.dodajArtikl(new Artikl("Biciklo", 1000, "9"));
         supermarket.dodajArtikl(new Artikl("Biciklo", 1000, "10"));
         supermarket.dodajArtikl(new Artikl("Biciklo", 1000, "11"));
-        supermarket.dodajArtikl(new Artikl("Biciklo", 1000, "12"));
+        supermarket.dodajArtikl(new Artikl("Lizalo", 1000, "12"));
         supermarket.dodajArtikl(new Artikl("Biciklo", 1000, "13"));
         supermarket.dodajArtikl(new Artikl("Biciklo", 1000, "14"));
         supermarket.dodajArtikl(new Artikl("Biciklo", 1000, "15"));
