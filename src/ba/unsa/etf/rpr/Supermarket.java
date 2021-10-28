@@ -7,7 +7,6 @@ private static int brojac=0;
         if(brojac<999) {
             nizArtikala[brojac] = artikl;
             brojac++;
-      //      System.out.println(brojac);
         }
     }
 
