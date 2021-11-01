@@ -14,9 +14,7 @@ private static int brojac=0;
         return nizArtikala;
     }
 
-    public void setNizArtikala(Artikl[] nizArtikala) {
-        this.nizArtikala = nizArtikala;
-    }
+
 
 
     public Artikl izbaciArtiklSaKodom(String kod) {
